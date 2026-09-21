@@ -50,7 +50,7 @@
 
 ---
 
-## ##O
+## // Other Things
 // Please go check out other things in my readme.md repository 
 
 // It has *a bunch* of important information!
