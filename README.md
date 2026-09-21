@@ -1,10 +1,15 @@
 # // About Me
 
 // Hello, I'm SneezyIvy171334 / AquaSkies / Anonamousse / CoziCooki171334.
+
 // You may, however, call me Aqua :)
+
 // I am also the biggest Cadence LARPer
 
+---
+
 // I'm a digital artist, 3D artist, and a rando 13-year-old interested in
+
 // worldbuilding, character design, games, and technology.
 
 ## // Interests
@@ -35,5 +40,9 @@
 ---
 
 // Please go check out other things in my readme.md repository 
+
 // It has *a bunch* of important information!
+
+---
+
 // Buh bye! :)
