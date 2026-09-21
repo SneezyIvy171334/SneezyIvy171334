@@ -29,6 +29,7 @@
 
 - Nullscape
 - Confinement
+- Grace **(I DO *NOT* SUPPORT SIMON'S ACTIONS)**
 
 // Uh... I think that's *it*...
 
@@ -39,6 +40,17 @@
 
 ---
 
+## // Alterhuman Stuff
+
+// Oh yeah, I'm a fictkin and a therian.
+
+// Fictkin of Cadence (Nullscape) and a shorthair cat therian.
+
+// Surprise?
+
+---
+
+## ##O
 // Please go check out other things in my readme.md repository 
 
 // It has *a bunch* of important information!
