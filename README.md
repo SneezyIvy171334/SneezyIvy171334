@@ -1,10 +1,37 @@
-## WARNING!
+# // About Me
 
-This profile may contain:
-- cursed scripts
-- terminal-based life choices
-- projects that escalated too far
+// Hello, I'm SneezyIvy171334 / AquaSkies / Anonamousse / CoziCooki171334.
+// You may, however, call me Aqua :)
+// I am also the biggest Cadence LARPer
 
-# HELLOOO!!!!
-I'm SneezyIvy171334, also known as Anonamousse! I like hardware, software, and cybersecurity.
-I sometimes make weird stuff?? And yes, I am 13.
+// I'm a digital artist, 3D artist, and a rando 13-year-old interested in
+// worldbuilding, character design, games, and technology.
+
+## // Interests
+
+- Digital art
+- 3D art and rendering
+- Blender (sadly)
+- Game development (perhaps?)
+- Worldbuilding
+- Character design
+- Programming
+- Linux and operating systems
+- Retro computing
+- Astronomy
+
+## // Fandoms
+
+- Nullscape
+- Confinement
+
+// Uh... I think that's *it*...
+
+## // A Few Important Links
+
+- [Strawpage](https://sneezyivy171334.straw.page)
+- [Pronouns!](https://en.pronouns.page/@sneezyivy171334)
+
+---
+
+// Buh bye! :)
