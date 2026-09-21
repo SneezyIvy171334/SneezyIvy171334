@@ -38,8 +38,6 @@
 - [Strawpage](https://sneezyivy171334.straw.page)
 - [Pronouns!](https://en.pronouns.page/@sneezyivy171334)
 
----
-
 ## // Alterhuman Stuff
 
 // Oh yeah, I'm a fictkin and a therian.
@@ -47,8 +45,6 @@
 // Fictkin of Cadence (Nullscape) and a shorthair cat therian.
 
 // Surprise?
-
----
 
 ## // Other Things
 // Please go check out other things in my readme.md repository 
